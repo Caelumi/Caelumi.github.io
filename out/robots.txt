@@ -1,5 +1,0 @@
-User-Agent: *
-Allow: /
-
-Host: https://caelumi.github.io
-Sitemap: https://caelumi.github.io/sitemap.xml
